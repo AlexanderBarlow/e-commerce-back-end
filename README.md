@@ -13,9 +13,7 @@ From here, we can test our end points in Insomnia.
 
 The first video shows how to create the database, seed the database and start the server. The second shows how to test the endpoints and the result of such.
 
-
-![Video 1](https://drive.google.com/file/d/15ywtixs-EYSZ5euT5OnZHIMr6HO5iSvp/view)
-![Video 2](https://drive.google.com/file/d/18lQVCdChNE_w1-SW5WLyK7VqKVc1tb-O/view)
+[Video 1-Setup](https://drive.google.com/file/d/15ywtixs-EYSZ5euT5OnZHIMr6HO5iSvp/view)<br>[Video 2-Endpoints](https://drive.google.com/file/d/18lQVCdChNE_w1-SW5WLyK7VqKVc1tb-O/view)
 
 ## Credits
 
