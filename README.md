@@ -2,7 +2,7 @@
 
 ## Description
 
-An e-commerce site is in need of a backend. This so they can hit multiple end points to retreive and manipulate data. This will be data using mySQL and Express.js long with Sequelize to build out desired routes for data.
+An e-commerce site is in need of a backend. This is so they can hit multiple end points to retreive and manipulate data. This will be data using mySQL and Express.js long with Sequelize to build out desired routes for data.
 
 ## Installation
 
